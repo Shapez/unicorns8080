@@ -1,9 +1,8 @@
 img {
     border-width:thick;
-    border:cyan;
+    border-color:cyan;
     border-style:solid;
     border-width:50px;
-    border:black;
     border-style:solid;
     border-bottom-color: rgb(0, 0, 0);
     border-bottom-style: solid;
@@ -13,13 +12,10 @@ img {
     border-image-slice: 100%;
     border-image-source: none;
     border-image-width: 1;
-    border-left-color: rgb(0, 0, 0);
     border-left-style: solid;
     border-left-width: 12px;
-    border-right-color: rgb(0, 0, 0);
     border-right-style: solid;
     border-right-width: 12px;
-    border-top-color: rgb(0, 0, 0);
     border-top-style: solid;
     border-top-width: 12px;
     display: inline;
